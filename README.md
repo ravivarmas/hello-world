@@ -1,2 +1,5 @@
 # hello-world
-This is my first program w.r.t data science
+
+Hi buddies,
+
+I am editing the master with my first changes which will be then saved as by first branch
